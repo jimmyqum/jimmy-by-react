@@ -31,3 +31,6 @@ bower_components/
 
 # IDE/Editor data
 .idea
+.vscode
+*/.DS_Store
+.DS_Store
