@@ -30,8 +30,10 @@ class AppComponent extends React.Component {
       <section className="img-sec">
      </section>
      <nav className="controller-nav">
-
      </nav>
+     <span>
+       234
+       </span>
     </section>
 
     );

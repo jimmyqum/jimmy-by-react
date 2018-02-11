@@ -33,3 +33,4 @@ bower_components/
 .idea
 .DS_Store
 */.DS_Store
+.vscode
